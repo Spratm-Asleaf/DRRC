@@ -1,14 +1,14 @@
 %{
     Online Supplementary Materials of the paper titled:
-        "Distributionally Robust Receive Beamforming"
+        "Distributionally Robust Receive Combining"
     By
         Shixiong Wang, Wei Dai, and Geoffrey Ye Li
     From 
         Intelligent Transmission and Processing Laboratory, Imperial College London
     
     @Author: Shixiong Wang (s.wang@u.nus.edu; wsx.gugo@gmail.com)
-    @Date  : 28 December 2023
-    @Site  : https://github.com/Spratm-Asleaf/Beamforming
+    @Date  : 28 December 2023, 15 November 2024
+    @Site  : https://github.com/Spratm-Asleaf/DRRC
 %}
 
 
