@@ -12,7 +12,7 @@ Online supplementary materials of the paper titled
 
 **Distributionally Robust Receive Combining**
 
-Published in the _IEEE Transactions on Signal Processing_ ([DOI: 10.1109/TSP.2025.3582082](https://ieeexplore.ieee.org/document/11048511))
+Published in the _IEEE Transactions on Signal Processing_ (DOI: [10.1109/TSP.2025.3582082](https://ieeexplore.ieee.org/document/11048511))
    
 By Shixiong Wang, Wei Dai, and Geoffrey Ye Li
 
